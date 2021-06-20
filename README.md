@@ -32,4 +32,4 @@ If mac stops `chromedriver` claiming "the developer cannot be verified", do the 
 
 ## Demo Video
 
-[![Watch on YouTube](https://img.youtube.com/vi/Z_TMaeemu6Y/sddefault.jpg)](https://youtu.be/Z_TMaeemu6Y)
+[![Watch on YouTube](https://img.youtube.com/vi/8bqY13JOA_A/sddefault.jpg)](https://youtu.be/8bqY13JOA_A)
