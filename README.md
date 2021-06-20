@@ -1,8 +1,8 @@
 # Mentimeter Voting Bot
 
-[Mentimeter polls](https://www.menti.com/) is a website that allows polling and receiving votes from an audience. Its a great evening timepass to play with my friends. There are groups of friends who intentionally put questions to demean others. A very light example: not knowing what does POTUS or LOTUS stand for. This repository provides a way (although a bit evil) to sabotage such malicious attempts at singling out people for heir lack of general knowledge.
+[Mentimeter polls](https://www.menti.com/) is a website that allows polling and receiving votes from an audience. Its a great evening timepass to play with my friends but is often abused a channel for bullying. Recently I had experiences with people intentionally putting questions just to demean others and bully those who chose a certain poll option. A very light example: not knowing what does POTUS or LOTUS stand for and then being made fun of. This repository provides a way to sabotage such malicious attempts at singling out people for heir lack of general knowledge. Undoing a vote is not allowed by Menti, so atleast the users of this repo can immediately pollute the results if they perceive a threat to their opinion privacy.
 
-This bot needs id of the menti poll and it automatically goes and scrambles the votes by adding numerous fake votes.
+This bot needs id of the menti poll and it automatically scrambles the votes by casting numerous fake votes.
 
 ## How to run
 
